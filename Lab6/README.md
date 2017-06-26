@@ -1,0 +1,1 @@
+creates DFS using NFA of a regular expression and tests incoming strings whether they match the pattern
